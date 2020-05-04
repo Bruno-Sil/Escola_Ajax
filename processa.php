@@ -88,3 +88,5 @@ elseif(isset($_GET['deleta'])){
 else{
 	echo "<span class='btn btn-danger'>Um erro ocorreu. Por favor, preencha todos os campos</span>";
 }
+
+?>
